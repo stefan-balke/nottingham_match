@@ -1,0 +1,14 @@
+name: nottingham_match
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.6
+  - librosa
+  - pandas
+
+  - pip:
+    - pretty-midi==0.2.8
+    - tqdm
