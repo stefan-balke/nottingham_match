@@ -22,8 +22,8 @@ released splits.
 To overcome this issue, we provide interested users a list of corresponding
 filename from Boulanger-Lewandowski's Nottingham data, to JukeDeck's version.
 
-The actual outcome of this mini-project is saved in `train.csv`, `valid.csv`,
-and `test.csv`. Everything python-related can be found in `python/`.
+The actual outcome of this mini-project is saved in `train.txt`, `valid.txt`,
+and `test.txt`. Everything python-related can be found in `python/`.
 
 ## Comparison of the Datasets
 
